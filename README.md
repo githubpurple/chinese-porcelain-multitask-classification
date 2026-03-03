@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/pytorch-1.12+-red.svg)]
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]
 
-Official implementation of "Multi-Task Deep Learning for Chinese Porcelain Classification" (paper, 2025)
+Official implementation of "Multi-Task Deep Learning for Chinese Porcelain Classification" (paper, 2026)
 
 ## Features
 - Multi-task classification (Dynasty, Kiln, Glaze, Type)
